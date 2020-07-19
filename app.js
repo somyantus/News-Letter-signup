@@ -57,7 +57,7 @@ app.post("/faliure", function(req,res){
 });
 
 app.listen(process.env.PORT || 3000, function(){
-    console.log("hello world");
+    console.log("hello world hello world");
 });
 
 
